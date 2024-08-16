@@ -1,6 +1,6 @@
-Docker Curriculum
+Docker Curriculum Reproduce
 ===
+A baisc Docker work follow by prakhar1989.
 
-> Learn to build and deploy your distributed applications easily to the cloud with Docker
-
-Follow the curriculum on [docker-curriculum.com](https://docker-curriculum.com/)
+The Cloud computing is from AWS.
+ 
