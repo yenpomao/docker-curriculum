@@ -1,6 +1,6 @@
 Docker Curriculum Reproduce
 ===
-A baisc Docker work follow by prakhar1989.
+A baisc Docker work following prakhar1989.
 
 The Cloud computing is from AWS.
  
